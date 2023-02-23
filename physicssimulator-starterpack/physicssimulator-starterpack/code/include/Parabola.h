@@ -17,6 +17,7 @@ private:
 	glm::vec3 x0[2];
 	glm::vec3 x[2];
 	glm::vec3 v0[2];
+	glm::vec3 v[2];
 	glm::vec3 a;
 
 	glm::vec3 EulerSolver(float time, int iteration);
