@@ -40,7 +40,7 @@ void ParabolaSim::RenderUpdate() {
 }
 
 void ParabolaSim::RenderGui() {
-
+	
 }
 
 glm::vec3 ParabolaSim::EulerSolver(float time, int iteration) {
