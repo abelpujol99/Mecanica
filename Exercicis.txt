@@ -13,3 +13,63 @@ a = 1
 12 = m * 1
 
 m = 1
+
+
+2.
+
+a)
+Massa = 0,0018kg
+V = 500mm/s
+
+2a(0.06 - 0) = 0^2 - 500^2
+
+0.12a = -250000
+
+a = -2083.3333
+
+F = Massa*a
+F = -3750N
+
+
+b)
+
+Massa = 0,0009kg
+V = 500m/s
+a = -4166666,66
+
+-3750 = Massa * a
+
+2 * -4166666,66(X - 0) = 0^2 - 500^2
+
+3cm
+
+
+3.
+
+F0mag = 3m/s
+
+a)
+
+aplicat en un pla
+aa = (3, 0)
+ab = (0, 3)
+
+suma de vectores de fuerza
+a = (3, 3)
+
+am = sqrt(18)m/s^2
+
+b)
+
+aa = (3, 0)
+ab = (4.24, 4,24)
+
+suma de vectores de fuerza
+a = (7,24, 4,24)
+
+am = sqrt(8,39)m/s^2
+
+
+4.
+
+G = (0, -1.635, 0)
